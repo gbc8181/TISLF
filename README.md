@@ -11,7 +11,7 @@ Matlab 2016a+
 
 # How to run this code
 
-1. Clone this repository with `git clone https://github.com/tianzhi0549/CTPN.git`.
+1. Clone this repository with `git clone https://github.com/gbc8181/TISLF.git`.
 
 2. Install Parallel Computing Toolbox in Matlab.
 
