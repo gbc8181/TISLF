@@ -1,0 +1,8 @@
+./stop.bmp
+./limited30.bmp
+./walk.bmp
+./limited20.bmp
+./Noturn.bmp
+./walk2.bmp
+./only.bmp
+./bike.bmp
