@@ -1,5 +1,4 @@
-# TISLF
-Target Image Video Search Based on Local Features
+# Target Image Video Search Based on Local Features (TISLF)
 
 The codes are used for implementing TISLF for target image deterction in videos in:  
 
@@ -7,6 +6,7 @@ The codes are used for implementing TISLF for target image deterction in videos 
 
 # Required softwares
 Python2.7
+
 Matlab 2016a+
 
 # How to run this code
