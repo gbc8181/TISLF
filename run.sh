@@ -1,3 +1,4 @@
+mkdir source_images target_images
 cd oak/
 python2 divide.py
 cd ../pine/
