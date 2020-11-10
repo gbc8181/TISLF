@@ -2,11 +2,11 @@
 
 The codes are used for implementing TISLF for target image deterction in videos in:  
 
-    Guan B, Ye H, Liu H, Sethares W. Target Image Video Search Based on Local Features. arXiv preprint arXiv:1808.03735. 2018 Aug 11.
+    B. Guan, H. Ye, H. Liu and W. A. Sethares, "Video Logo Retrieval Based on Local Features," 2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2020, pp. 1396-1400, doi: 10.1109/ICIP40778.2020.9191208.
 
 # Required softwares
 Python2.7
-
+C++14
 Matlab 2016a+
 
 # How to run this code
